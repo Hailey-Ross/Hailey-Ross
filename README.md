@@ -1,4 +1,3 @@
-![Heart Sig](https://raw.githubusercontent.com/Hailey-Ross/Hailey-Ross/main/heart-purple_smol.png)
 <p align="left"><a href="https://u.hails.cc/Links"><img src="https://komarev.com/ghpvc/?username=hailey-ross&label=Profile%20views&color=ff6e96&style=plastic" alt="profile-view-counter" /> <img src="http://assets.hails.cc/i/dev-sphere96x96.png" alt="Dev-Sphere" style="width:20px;height:20px;"/></a></p>
 <p align="left"><a href="https://u.hails.cc/Links"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhailey-ross&longCache=true"/></a></p>
 <p align="center"><a href="https://u.hails.cc/Links"><img src="https://assets.hails.cc/i/hailey-sting.gif" alt="hailey-ross-sting" /></a></p>
