@@ -1,6 +1,6 @@
 <p align="left">
-<a href="https://u.hails.cc/Links"><img align="left" src="https://komarev.com/ghpvc/?username=hailey-ross&label=Profile+views&color=ff6e96&style=plastic" alt="profile-view-counter" /><img src="http://assets.hails.cc/i/dev-sphere96x96.png" alt="Dev-Sphere" style="width:20px;height:20px;"/></a>  
-<a href="https://u.hails.cc/Links"><img align="center" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhailey-ross&longCache=true"/></a>
+<a href="https://u.hails.cc/Links"><img align="left" src="https://komarev.com/ghpvc/?username=hailey-ross&label=Profile+views&color=ff6e96&style=plastic" alt="profile-view-counter" /></a><br>
+<a href="https://u.hails.cc/Links"><img align="center" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhailey-ross&longCache=true"/></a>  
 <a href="https://u.hails.cc/Links"><img align="center" src="https://assets.hails.cc/i/hailey-sting.gif" alt="hailey-ross-sting" /></a>
 </p>
 <p align="center">
@@ -9,4 +9,5 @@
 <a href="https://u.hails.cc/Links"><img align="center" src="https://myreadme.vercel.app/api/embed/hailey-ross?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="hailey-ross-reimagined-readme" /></a>
 <a href="https://u.hails.cc/Links"><img align="center" src="https://github-profile-trophy.vercel.app/?username=hailey-ross&theme=juicyfresh&no-bg=true" /></a>
 <!--<a href="https://u.hails.cc/Links"><img align="center" src="https://hails-gitstats.vercel.app/api/top-langs?username=hailey-ross&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Hails-Top-Languages" /></a> -->
+<br> <a href="https://u.hails.cc/Links"><img src="http://assets.hails.cc/i/dev-sphere96x96.png" alt="Dev-Sphere" style="width:44px;height:44px;"/></a>
 </p>
