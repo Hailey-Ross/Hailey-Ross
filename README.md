@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hails-gitstats.vercel.app/api/top-langs/?username=Hailey-Ross&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://hails-gitstats.vercel.app/api?username=Hailey-Ross&show_icons=true&theme=tokyonight" alt="Github Stats" /><img src="https://hails-gitstats.vercel.app/api/top-langs/?username=Hailey-Ross&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
