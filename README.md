@@ -11,7 +11,9 @@
     <img src="https://assets.hails.cc/i/hailey-sting.gif" alt="hailey-ross-sting" />
   </a>
 </p>
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hailey-Ross&theme=onedark"/>
+</p>
 <p align="center">
   <img src="https://hails-gitstats.vercel.app/api?username=Hailey-Ross&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=90&border_radius=10" alt="Github Stats" />
 </p>
