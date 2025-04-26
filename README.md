@@ -13,9 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://hails-gitstats.vercel.app/api?username=Hailey-Ross&show_icons=true&theme=tokyonight" alt="Github Stats" /><img src="https://hails-gitstats.vercel.app/api/top-langs/?username=Hailey-Ross&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://hails-gitstats.vercel.app/api?username=Hailey-Ross&show_icons=true&theme=tokyonight" alt="Github Stats" />
 </p>
-
+<p align="center">
+<img src="https://hails-gitstats.vercel.app/api/top-langs/?username=Hailey-Ross&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 <p align="center">
   <a href="https://u.hails.cc/Links"><br>
     <img src="http://assets.hails.cc/i/dev-sphere96x96.png" alt="Dev-Sphere" style="width:44px;height:44px;"/>
