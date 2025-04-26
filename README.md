@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="https://hails-gitstats.vercel.app/api?username=Hailey-Ross&show_icons=true&theme=tokyonight" alt="Github Stats" />
+  <img src="https://hails-gitstats.vercel.app/api?username=Hailey-Ross&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=90" alt="Github Stats" />
 </p>
 <p align="center">
-<img src="https://hails-gitstats.vercel.app/api/top-langs/?username=Hailey-Ross&theme=tokyonight" alt="Top Languages" />
+<img src="https://hails-gitstats.vercel.app/api/top-langs/?username=Hailey-Ross&theme=tokyonight&cache_seconds=90" alt="Top Languages" />
 </p>
 <p align="center">
   <a href="https://u.hails.cc/Links"><br>
