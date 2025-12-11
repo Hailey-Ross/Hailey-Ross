@@ -4,7 +4,7 @@
 <p align="center">
 </p>
 <p align="center">
-<img src="https://hails-github-profile-trophy.vercel.app/?username=Hailey-Ross&no-bg=true"/>
+<img src="https://hails-github-profile-trophy-git-master-haileys-projects.vercel.app/?username=Hailey-Ross&no-bg=true"/>
 </p>
 <p align="center">
   <img src="https://hails-gitstats.vercel.app/api?username=Hailey-Ross&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=90&border_radius=10" alt="Github Stats" />
