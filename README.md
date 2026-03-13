@@ -3,9 +3,9 @@
 <a href="https://github.com/Hailey-Ross?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Hailey-Ross?style=plastic&color=9966CB&logo=github"></a> <a href="https://github.com/Hailey-Ross?tab=stars"><img src="https://img.shields.io/github/stars/Hailey-Ross?style=plastic&color=9966CB&cacheSeconds=44&logo=Github" alt="Github Stars"/></a> <a href="https://www.youtube.com/@Hayesly"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCOl94IHMdLBMq8riUV8j-ww?style=plastic&color=9966CB&cacheSeconds=60&logo=Youtube"></a> <a href="https://www.youtube.com/@Hayesly"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCOl94IHMdLBMq8riUV8j-ww?style=plastic&color=9966CB&cacheSeconds=60&logo=Youtube"></a> <a href="https://pride-badges.pony.workers.dev/"><img src="https://pride-badges.pony.workers.dev/static/v1?label=&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982" alt="Pride"/></a></p>
 <p align="center">
 </p>
-<p align="center">
+<!--<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Hailey-Ross&no-bg=true"/>
-</p>
+</p>-->
 <p align="center">
   <img src="https://hails-gitstats.vercel.app/api?username=Hailey-Ross&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=90&border_radius=10" alt="Github Stats" />
 </p>
