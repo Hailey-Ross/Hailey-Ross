@@ -4,8 +4,9 @@
 <a href="https://hails.live"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fhails.live&style=plastic&label=Hails.live"></a>
 <a href="https://hails.app"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fhails.app&style=plastic&label=Hails.app"></a> 
 <a href="https://github.com/Hailey-Ross"><img src="https://komarev.com/ghpvc/?username=Hailey-Ross&label=Profile+views&color=9966CB&style=plastic&abbreviated=true" alt="profile-view-counter" /></a>
-<a href="https://github.com/Hailey-Ross?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Hailey-Ross?style=plastic&color=9966CB&logo=github"></a> 
+<a href="https://github.com/Hailey-Ross?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Hailey-Ross?style=plastic&color=9966CB&logo=github"></a>
 <a href="https://github.com/Hailey-Ross?tab=stars"><img src="https://img.shields.io/github/stars/Hailey-Ross?style=plastic&color=9966CB&cacheSeconds=44&logo=Github" alt="Github Stars"/></a>
+<a href="https://bsky.app/profile/hails.app"><img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/hails.app?style=plastic&color=9966CB&cacheSeconds=44&logo=Bluesky" alt="Bluesky Followers""></a>
 <a href="https://pride-badges.pony.workers.dev/"> <img src="https://pride-badges.pony.workers.dev/static/v1?label=&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982" alt="Pride"/>
 <img src="https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA"/></a></p>
 <p align="center">
