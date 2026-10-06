@@ -9,6 +9,7 @@
 <a href="https://bsky.app/profile/hails.app"><img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/hails.app?style=plastic&color=9966CB&cacheSeconds=44&logo=Bluesky" alt="Bluesky Followers""></a>
 <a href="https://pride-badges.pony.workers.dev/"> <img src="https://pride-badges.pony.workers.dev/static/v1?label=&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982" alt="Pride"/><img src="https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA"/></a></p>
 <p align="center">
+<a href="https://github.com/Hailey-Ross/rusty-trucks/actions/workflows/fork-release.yml"><img alt="Build Badge" src="https://github.com/Hailey-Ross/rusty-trucks/actions/workflows/fork-release.yml/badge.svg"></a>
 </p>
 <!--<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Hailey-Ross&no-bg=true"/>
